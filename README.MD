@@ -34,12 +34,6 @@ Auto_ss is a GUI-based Python application that allows users to capture screensho
 - **Settings Manager**: For managing user preferences (custom module).
 - **Screenshot Manager**: For screenshot handling and PDF creation (custom module).
 
-Install dependencies using `pip`:
-```bash
-pip install pillow keyboard
-```
-
----
 
 ## Installation
 
