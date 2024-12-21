@@ -1,0 +1,9 @@
+{
+    "shortcuts": {
+        "take_screenshot": "/",
+        "save_pdf": "ctrl+s",
+        "exit": "esc"
+    },
+    "quality": 95,
+    "compress": false
+}
